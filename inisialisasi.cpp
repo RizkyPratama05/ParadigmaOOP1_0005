@@ -20,3 +20,8 @@ class mahasiswa {
         }
 };
 
+int main() {
+    mahasiswa mhs(12, "Rizky", 90.5);
+
+    return 0;
+}
